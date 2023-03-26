@@ -1,1 +1,1 @@
-# basic python DS code 
+# basic data structure code in python 
